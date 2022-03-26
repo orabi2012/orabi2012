@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orabi2012
 - 👀 I’m interested in programming and health informatics
-- 🌱 I’m currently learning js , c sharp , blazor
+- 🌱 I’m currently learning js , c sharp , blazor , Node Js , Express Js 
 - 📫 How to reach me ... aorabi@outlook.com
 
 <!---
